@@ -47,7 +47,7 @@ I architect and ship robust systems across **multi-tenant enterprise SaaS**, **i
 ### ⚡ Quick Facts
 * 🎓 **Academics:** B.E. in CSE at MIT Mysore &bull; **9.55 CGPA** (Top Tier Academic Standing)
 * 💼 **Executive Role:** Chief Operating Officer at **YVB&Co** (Managing 6 engineers & designers)
-* 🚀 **Shipped Systems:** **11+ production platforms** deployed across institutional and commercial environments
+* 🚀 **Engineered Projects:** **11 systems & applications** across institutional ERP, enterprise SaaS, utilities, and AI prototypes
 * 🥇 **Competitive Honors:** SOF International Mathematics Olympiad Gold Medalist (Int'l Rank 1712)
 * 🏏 **Athletics:** Champions of VTU Inter-College Tournament (Mysuru District, 2026) & U-16 Champions (2021)
 
@@ -76,8 +76,8 @@ I architect and ship robust systems across **multi-tenant enterprise SaaS**, **i
 <strong>Engineers & Designers</strong>
 </td>
 <td width="25%" align="center">
-<h3>100%</h3>
-<strong>Independent & Bootstrapped</strong>
+<h3>Agile</h3>
+<strong>Client & Studio Delivery</strong>
 </td>
 <td width="25%" align="center">
 <h3>IN</h3>
@@ -90,7 +90,7 @@ I architect and ship robust systems across **multi-tenant enterprise SaaS**, **i
 * **Technical Strategy & Roadmaps:** Directing system architecture, infrastructure design, database schemas, and production deployment pipelines.
 * **Engineering Execution:** Leading sprint cycles, feature prioritization, rigorous peer code reviews, and zero-defect QA standards across 6 engineers and designers.
 * **Client & Institutional Solutions:** Architecting custom ERP systems, multi-tenant portals, and bespoke applications tailored to enterprise and academic partner requirements.
-* **Business Operations:** Directing organizational growth, operational efficiency, and technology delivery with 100% independent studio profitability.
+* **Business Operations:** Directing organizational growth, operational efficiency, and technology delivery with client-first engineering standards.
 
 <br/>
 
