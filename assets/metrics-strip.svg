@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 95" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    </style>
+  </defs>
+
+  <g transform="translate(0, 0)">
+    <rect x="0" y="0" width="215" height="95" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="42" fill="#F8FAFC" font-size="28" font-weight="800" class="mono">9.55</text>
+    <text x="100" y="32" fill="#38BDF8" font-size="12" font-weight="700" class="mono">CGPA</text>
+    <text x="20" y="66" fill="#94A3B8" font-size="10" font-weight="600" class="sans" letter-spacing="0.5">ACADEMIC FOUNDATION</text>
+    <text x="20" y="80" fill="#64748B" font-size="9" font-weight="500" class="mono">B.E. CSE &bull; MIT Mysore</text>
+    <line x1="20" y1="94" x2="80" y2="94" stroke="#3B82F6" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(228, 0)">
+    <rect x="0" y="0" width="215" height="95" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="42" fill="#F8FAFC" font-size="28" font-weight="800" class="mono">11+</text>
+    <text x="90" y="32" fill="#38BDF8" font-size="12" font-weight="700" class="mono">SYSTEMS</text>
+    <text x="20" y="66" fill="#94A3B8" font-size="10" font-weight="600" class="sans" letter-spacing="0.5">SHIPPED ARCHITECTURE</text>
+    <text x="20" y="80" fill="#64748B" font-size="9" font-weight="500" class="mono">SaaS &bull; ERP &bull; Edge AI</text>
+    <line x1="20" y1="94" x2="80" y2="94" stroke="#3B82F6" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(456, 0)">
+    <rect x="0" y="0" width="215" height="95" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="42" fill="#F8FAFC" font-size="28" font-weight="800" class="mono">COO</text>
+    <text x="86" y="32" fill="#38BDF8" font-size="12" font-weight="700" class="mono">STUDIO</text>
+    <text x="20" y="66" fill="#94A3B8" font-size="10" font-weight="600" class="sans" letter-spacing="0.5">OPERATIONS LEADERSHIP</text>
+    <text x="20" y="80" fill="#64748B" font-size="9" font-weight="500" class="mono">YVB&amp;Co &bull; 6 Engineers</text>
+    <line x1="20" y1="94" x2="80" y2="94" stroke="#3B82F6" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(684, 0)">
+    <rect x="0" y="0" width="216" height="95" rx="12" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="20" y="42" fill="#F8FAFC" font-size="28" font-weight="800" class="mono">GOLD</text>
+    <text x="100" y="32" fill="#F59E0B" font-size="12" font-weight="700" class="mono">&#9733; MEDAL</text>
+    <text x="20" y="66" fill="#94A3B8" font-size="10" font-weight="600" class="sans" letter-spacing="0.5">COMPETITIVE HONORS</text>
+    <text x="20" y="80" fill="#64748B" font-size="9" font-weight="500" class="mono">SOF IMO Rank 1712</text>
+    <line x1="20" y1="94" x2="80" y2="94" stroke="#F59E0B" stroke-width="2"/>
+  </g>
+</svg>
