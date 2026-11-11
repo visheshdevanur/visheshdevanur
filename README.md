@@ -27,7 +27,7 @@
 <!-- ================= 01 // PROFESSIONAL OVERVIEW ================= -->
 <p align="center"><img src="./assets/section-about.svg" alt="01 Professional Overview" width="100%"/></p>
 
-I'm **Vishesh G Devanur**, a Computer Science & Engineering undergraduate at **Maharaja Institute of Technology, Mysore** maintaining a **9.55 CGPA**, concurrently serving as **Chief Operating Officer (COO) & Technical Lead** at **YVB&Co**, an independent software studio.
+I'm **Vishesh G Devanur**, a Computer Science & Engineering undergraduate at **Maharaja Institute of Technology, Mysore** maintaining a **9.55 CGPA**, concurrently serving as **Chief Operating Officer (COO)** at **Vovalyx**.
 
 I architect and ship robust systems across **multi-tenant enterprise SaaS**, **institutional governance ERPs**, **scalable web utilities**, and **offline-first Edge AI architectures**. My philosophy centers around precision, speed, and building technology around the way operations actually work — not the other way around.
 
@@ -46,7 +46,7 @@ I architect and ship robust systems across **multi-tenant enterprise SaaS**, **i
 
 ### ⚡ Quick Facts
 * 🎓 **Academics:** B.E. in CSE at MIT Mysore &bull; **9.55 CGPA** (Top Tier Academic Standing)
-* 💼 **Executive Role:** Chief Operating Officer at **YVB&Co** (Managing 6 engineers & designers)
+* 💼 **Executive Role:** Chief Operating Officer (COO) at **Vovalyx**
 * 🚀 **Engineered Projects:** **11 systems & applications** across institutional ERP, enterprise SaaS, utilities, and AI prototypes
 * 🥇 **Competitive Honors:** SOF International Mathematics Olympiad Gold Medalist (Int'l Rank 1712)
 * 🏏 **Athletics:** Champions of VTU Inter-College Tournament (Mysuru District, 2026) & U-16 Champions (2021)
@@ -57,40 +57,45 @@ I architect and ship robust systems across **multi-tenant enterprise SaaS**, **i
 
 <br/>
 
-<!-- ================= 02 // LEADERSHIP & STUDIO ================= -->
+<!-- ================= 02 // LEADERSHIP & EXPERIENCE ================= -->
 <p align="center"><img src="./assets/section-experience.svg" alt="02 Leadership & Operations" width="100%"/></p>
 
-### Chief Operating Officer (COO) & Technical Lead &mdash; [YVB&Co](https://yvb-co.vercel.app)
-**Independent Technology Studio &bull; India (Global Operations) &bull; 2024 &ndash; PRESENT**
+### Chief Operating Officer (COO) &mdash; **Vovalyx**
+**Executive Leadership &bull; Operations & Governance &bull; PRESENT**
 
-> *"Engineer Your Vision. We're a team of six engineers and designers building websites, applications, ERP systems, and enterprise tools around the way businesses actually work."*
+> *"Driving organizational leadership, operational coordination, and the connection between business objectives and technology execution."*
 
 <table>
 <tr>
 <td width="25%" align="center">
-<h3>02</h3>
-<strong>Core Systems Deployed</strong>
+<h3>COO</h3>
+<strong>Executive Leadership</strong>
 </td>
 <td width="25%" align="center">
-<h3>06+</h3>
-<strong>Engineers & Designers</strong>
+<h3>OPS</h3>
+<strong>Strategic Governance</strong>
 </td>
 <td width="25%" align="center">
 <h3>Agile</h3>
-<strong>Client & Studio Delivery</strong>
+<strong>Execution & Growth</strong>
 </td>
 <td width="25%" align="center">
 <h3>IN</h3>
-<strong>Headquartered in India</strong>
+<strong>Global Operations</strong>
 </td>
 </tr>
 </table>
 
-**Core Responsibilities & Technical Governance:**
-* **Technical Strategy & Roadmaps:** Directing system architecture, infrastructure design, database schemas, and production deployment pipelines.
-* **Engineering Execution:** Leading sprint cycles, feature prioritization, rigorous peer code reviews, and zero-defect QA standards across 6 engineers and designers.
-* **Client & Institutional Solutions:** Architecting custom ERP systems, multi-tenant portals, and bespoke applications tailored to enterprise and academic partner requirements.
-* **Business Operations:** Directing organizational growth, operational efficiency, and technology delivery with client-first engineering standards.
+**Core Responsibilities & Executive Governance:**
+* **Operational Leadership:** Directing organizational growth, cross-functional operations, and translating core business objectives into concrete execution milestones.
+* **Strategic Alignment:** Connecting client requirements, institutional partnerships, and product roadmaps with scalable technology delivery.
+* **Operational Efficiency:** Establishing standards for operational governance, workflow optimization, and high-impact cross-team coordination.
+
+<br/>
+
+#### Software Studio Experience &mdash; [YVB&Co](https://yvb-co.vercel.app)
+*Independent Technology Studio &bull; Software Engineering & Systems Delivery*
+* Contributed to system architecture, full-stack implementations, and production web platforms across client and institutional engagements.
 
 <br/>
 
@@ -394,6 +399,6 @@ I'm always interested in connecting with engineers, founders, researchers, and t
 
 <div align="center">
   <p align="center">
-    <sub style="color: #64748B; font-family: monospace;">VISHESH G DEVANUR &bull; CHIEF OPERATING OFFICER @ YVB&amp;CO &bull; ALL RIGHTS RESERVED &bull; 2026</sub>
+    <sub style="color: #64748B; font-family: monospace;">VISHESH G DEVANUR &bull; CHIEF OPERATING OFFICER @ VOVALYX &bull; ALL RIGHTS RESERVED &bull; 2026</sub>
   </p>
 </div>
