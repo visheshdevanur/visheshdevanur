@@ -1,10 +1,10 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080D19,45:123B70,100:2563EB&text=VISHESH%20G%20DEVANUR&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=COO%20%7C%20FULL-STACK%20%26%20ERP%20ARCHITECT%20%7C%20AI%20PRODUCT%20BUILDER&descSize=13&descAlignY=62&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080D19,45:123B70,100:2563EB&text=VISHESH%20G%20DEVANUR&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=TECHNOLOGY%20LEADERSHIP%20%7C%20ENTERPRISE%20ENGINEERING%20%7C%20AI&descSize=14&descAlignY=62&animation=twinkling"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=750&lines=Architecting+Enterprise+Systems;Building+AI-Powered+Products;Engineering+Scalable+Solutions;Turning+Ideas+Into+Production+Systems;Leading+Technology+%26+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=600&color=60A5FA&center=true&vCenter=true&width=750&lines=Chief+Operating+Officer+%40+Vovalyx;COO+%26+Technical+Lead+%40+YVB%26Co;Engineering+Enterprise+Systems;Building+Intelligent+Products;Turning+Ideas+Into+Production+Systems"/>
 
 <br/><br/>
 
@@ -20,24 +20,29 @@
 </div>
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 01 / PROFESSIONAL OVERVIEW
+# <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30" height="30" align="center"/> PROFESSIONAL OVERVIEW
 
 <div align="center">
 
-### Engineering Systems. Building Intelligence. Creating Impact.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=650&lines=Engineering+Systems.;Building+Intelligence.;Creating+Impact."/>
 
 </div>
 
-I'm **Vishesh G Devanur**, a Computer Science and Engineering undergraduate at **Maharaja Institute of Technology, Mysore**, and a technology leader working across software engineering, enterprise architecture, artificial intelligence, and product development.
+I'm **Vishesh G Devanur**, a Computer Science and Engineering undergraduate at **Maharaja Institute of Technology, Mysore**.
 
-I serve as **Chief Operating Officer (COO) at Vovalyx** and **Chief Operating Officer (COO) & Technical Lead at YVB&Co**, contributing to technology leadership, business operations, engineering delivery, and product development.
+I work at the intersection of software engineering, enterprise architecture, artificial intelligence, product development, and technology leadership.
 
-My engineering interests focus on architecting robust multi-tenant enterprise ERPs, institutional governance platforms, scalable SaaS utilities, and offline-first Edge AI systems.
+I serve as:
 
-I enjoy taking complex ideas from architecture to implementation, building production-oriented systems, and connecting engineering decisions with real-world business requirements.
+- **Chief Operating Officer (COO) — Vovalyx**
+- **Chief Operating Officer (COO) & Technical Lead — YVB&Co**
+
+My interests include designing scalable enterprise platforms, building intelligent software products, developing institutional ERP systems, and exploring offline-first AI technologies.
+
+I enjoy translating complex ideas into practical engineering solutions, from architecture and implementation to deployment and business operations.
 
 ### Professional Snapshot
 
@@ -45,141 +50,125 @@ I enjoy taking complex ideas from architecture to implementation, building produ
 <tr>
 <td align="center" width="25%">
 <h2>9.55</h2>
-<strong>CGPA</strong>
-<br/>B.E. CSE
+<strong>CGPA</strong><br/>B.E. CSE
 </td>
 <td align="center" width="25%">
 <h2>11+</h2>
-<strong>Systems</strong>
-<br/>Built
+<strong>Projects</strong><br/>Engineering Systems
 </td>
 <td align="center" width="25%">
 <h2>COO</h2>
-<strong>Leadership</strong>
-<br/>Vovalyx & YVB&Co
+<strong>Leadership</strong><br/>Vovalyx & YVB&Co
 </td>
 <td align="center" width="25%">
 <h2>6</h2>
-<strong>Team Members</strong>
-<br/>YVB&Co
+<strong>Team Members</strong><br/>YVB&Co
 </td>
 </tr>
 </table>
 
-**Currently interested in:** Enterprise Architecture · AI Engineering · Edge AI · Full-Stack Development · Cybersecurity · SaaS Products.
-
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=Enterprise+Architecture+%7C+AI+Engineering;Full-Stack+Development+%7C+Cybersecurity;Product+Strategy+%7C+Technical+Leadership"/>
 </div>
 
-# 02 / LEADERSHIP & PROFESSIONAL EXPERIENCE
+<div align="center">
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+</div>
 
-<img align="right" width="120" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+# <img src="https://img.icons8.com/fluency/48/briefcase.png" width="30" height="30" align="center"/> LEADERSHIP & EXPERIENCE
 
 ### Chief Operating Officer — Vovalyx
 
-**COO | Technology & Business Leadership**
+**COO | Business & Technology Leadership**
 
-Contributing to organizational leadership and business operations as Chief Operating Officer.
-
-My professional focus includes connecting business objectives with technology execution, product development, and operational growth.
-
-<br clear="right"/>
+Serving as Chief Operating Officer, contributing to organizational leadership, operational coordination, and the connection between business objectives and technology execution.
 
 ### Chief Operating Officer & Technical Lead — YVB&Co
 
-**Independent Software Studio | 2024 – Present**
+**Independent Software Studio | Technology Leadership**
 
-Directing operations, software architecture, technical delivery, and client product engagements across a six-member engineering and design team.
+Leading technical delivery and business operations across a six-member engineering and design team.
 
-**Key Responsibilities & Contributions**
+**Responsibilities**
 
-- Directing technical roadmaps, infrastructure architecture, sprint timelines, and production deployments.
-- Spearheading two enterprise-grade core platforms built around real business operations.
-- Leading a six-person engineering and design team.
-- Coordinating code reviews, engineering quality, and user experience standards.
-- Managing finance, revenue strategy, business operations, and client growth.
-- Maintaining a self-funded independent studio.
+- Technology strategy and engineering roadmaps.
+- Software architecture and production deployments.
+- Finance and revenue strategy.
+- Client acquisition and business growth.
+- Team coordination and engineering quality.
+- Product development and delivery management.
 
 **Organization:** [YVB&Co](https://yvb-co.vercel.app)
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 03 / ENGINEERING PROJECTS
+# <img src="https://img.icons8.com/fluency/48/code.png" width="30" height="30" align="center"/> ENGINEERING PROJECTS
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=11%2B+Engineering+Systems;Enterprise+Platforms+%7C+AI+%7C+SaaS;From+Architecture+To+Implementation"/>
-
-A collection of engineering systems spanning institutional ERP, enterprise SaaS, AI, Edge Computing, data analytics, and digital utilities.
-
----
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=60A5FA&center=true&vCenter=true&width=650&lines=Enterprise+Platforms;Institutional+ERP+Systems;AI+%26+Edge+Computing;Data-Driven+Applications;Production-Oriented+Engineering"/>
+</div>
 
 ### 01. No-Due Portal
 
 **Multi-Tenant Clearance SaaS**
 
-<img src="https://img.shields.io/badge/ENTERPRISE-SAAS-2563EB?style=flat-square"/>
+A digital clearance management platform designed to streamline institutional No-Due workflows across departments.
 
-A production multi-tenant SaaS platform digitizing student No-Due Clearance workflows, eliminating manual paper routing across faculty, departmental coordinators, central library, accounts, HODs, and administrators.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Multi-tenant architecture with departmental role separation.
-- Granular role-based dashboards for Faculty, Library, Accounts, HOD and Admin.
-- Automated due tracking, fine calculations, and payment reconciliation.
-- Digital clearance certificate PDF generation with verification hashes.
+- Multi-tenant architecture.
+- Role-based dashboards.
+- Faculty, Library, Accounts, HOD and Admin workflows.
+- Due tracking and payment reconciliation.
+- Digital clearance certificate generation.
 
 **Technology:** Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma ORM
 
-**Live:** [noc-portal-self.vercel.app](https://noc-portal-self.vercel.app)
+**Live:** [No-Due Portal](https://noc-portal-self.vercel.app)
 
 ---
 
 ### 02. AcadOps ERP
 
-**Engineering College Governance ERP**
+**Engineering College Governance Platform**
 
-<img src="https://img.shields.io/badge/INSTITUTIONAL-ERP-2563EB?style=flat-square"/>
+An institutional ERP platform designed to centralize academic and administrative operations.
 
-An Enterprise Resource Planning platform architected for engineering colleges, centralizing institutional operations from student admissions to graduation.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Admissions management and academic lifecycle tracking.
-- Examination scheduling and digital grading workflows.
-- Internal assessment and attendance management.
+- Admissions management.
+- Examination scheduling.
+- Attendance and internal assessments.
 - Faculty mentorship records.
-- Institutional Role-Based Access Control.
+- Role-based institutional access.
 
-**Technology:** React · Node.js · Express · PostgreSQL · RBAC · Tailwind CSS
+**Technology:** React · Node.js · Express · PostgreSQL · RBAC
 
-**Repository:** [YVB&Co/AcadOps](https://github.com/YVBCo/AcadOps)
+**Repository:** [AcadOps](https://github.com/YVBCo/AcadOps)
 
-**Live:** [erp-client-9lbk.vercel.app](https://erp-client-9lbk.vercel.app)
+**Live:** [AcadOps ERP](https://erp-client-9lbk.vercel.app)
 
 ---
 
 ### 03. MITM PlacePro
 
-**Campus Placement Management Platform**
+**Campus Placement Management**
 
-<img src="https://img.shields.io/badge/EDTECH-PLACEMENT%20PLATFORM-2563EB?style=flat-square"/>
+A recruitment management platform connecting students, placement administrators, and hiring organizations.
 
-A full-stack placement platform connecting eligible students, placement administrators, and hiring companies through structured recruitment workflows.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Automated student eligibility screening.
-- Dynamic company cutoff criteria.
-- Recruitment drive and interview-round tracking.
-- Assessment and interview scheduling.
-- Placement analytics and package distribution reports.
-- Candidate verification and qualification announcements.
+- Student eligibility screening.
+- Company cutoff criteria.
+- Recruitment drive management.
+- Interview scheduling.
+- Placement analytics.
 
 **Technology:** Next.js · React · Supabase · PostgreSQL · Tailwind CSS
 
-**Live:** [mitm-placepro.vercel.app](https://mitm-placepro.vercel.app)
+**Live:** [MITM PlacePro](https://mitm-placepro.vercel.app)
 
 ---
 
@@ -187,22 +176,20 @@ A full-stack placement platform connecting eligible students, placement administ
 
 **Research Administration Platform**
 
-<img src="https://img.shields.io/badge/RESEARCH-INSTITUTIONAL%20SYSTEM-2563EB?style=flat-square"/>
+An institutional research platform supporting scholar registration, supervisor allocation, research reviews, and academic progression.
 
-An institutional research administration platform managing the academic PhD research lifecycle, from scholar registration and supervisor matching to RAC reviews and dissertation viva.
+**Key Engineering Areas**
 
-**Engineering Highlights**
+- Scholar registration.
+- Guide verification.
+- Research Advisory Committee evaluations.
+- Patent and publication repositories.
+- Viva scheduling.
+- Research lifecycle management.
 
-- Scholar registration and guide verification.
-- Supervisor allocation and research records.
-- Research Advisory Committee half-yearly evaluations.
-- Patent, Scopus/SCI journal, and conference repositories.
-- Pre-PhD comprehensive viva scheduling.
-- Graduation workflow audits.
+**Technology:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL
 
-**Technology:** Next.js · TypeScript · Tailwind CSS · Prisma ORM · PostgreSQL
-
-**Live:** [mitm-rd.vercel.app](https://mitm-rd.vercel.app)
+**Live:** [MRF Research Portal](https://mitm-rd.vercel.app)
 
 ---
 
@@ -210,24 +197,18 @@ An institutional research administration platform managing the academic PhD rese
 
 **Edge-Native Interactive Learning System**
 
-<img src="https://img.shields.io/badge/AI-EDGE%20COMPUTING-7C3AED?style=flat-square"/>
+An offline AI tutoring system designed for learning environments with limited or unavailable internet connectivity.
 
-An offline AI tutoring engine designed for schools in remote areas with zero or unstable internet connectivity.
+**Key Engineering Areas**
 
-The architecture combines local speech recognition, Small Language Models, and text-to-speech directly on edge devices.
-
-**Engineering Highlights**
-
-- 100% offline, zero-cloud-dependency architecture.
-- On-device Speech-to-Text using Whisper.
+- Offline-first AI architecture.
+- On-device speech recognition.
 - Quantized Small Language Models.
-- Voice-interactive curriculum tutoring and question answering.
-- Text-to-Speech learning interaction.
-- Hardware optimization for Raspberry Pi.
+- Voice-based learning interaction.
+- Text-to-Speech.
+- Raspberry Pi optimization.
 
-**Technology:** Python · Local LLMs · Whisper · TTS · Edge AI · React
-
-**Status:** Offline AI Prototype
+**Technology:** Python · Whisper · Local LLMs · GGUF · Edge AI
 
 ---
 
@@ -235,22 +216,17 @@ The architecture combines local speech recognition, Small Language Models, and t
 
 **Collaborative 3D Mapping & Emergency Operations**
 
-<img src="https://img.shields.io/badge/INNOVATION-EMERGENCY%20TECHNOLOGY-7C3AED?style=flat-square"/>
+A disaster-response concept exploring collaborative camera feeds and 3D environmental reconstruction for emergency operations.
 
-A collaborative emergency-response concept exploring how ordinary citizen smartphones can synchronize video feeds to construct navigable 3D environment models for search-and-rescue operations.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Crowdsourced camera-feed capture.
+- Crowdsourced camera capture.
 - Spatial orientation synchronization.
-- Photogrammetry-based 3D environment reconstruction.
+- Photogrammetry-based reconstruction.
 - Tactical coordinate mapping.
-- Hazard hotspot identification.
-- Emergency communication under constrained bandwidth.
+- Emergency hotspot identification.
 
-**Technology:** React Native · Python · 3D Rendering · WebRTC · Spatial Algorithms
-
-**Status:** Hackathon / Upcoming
+**Technology:** React Native · Python · 3D Rendering · WebRTC
 
 ---
 
@@ -258,43 +234,39 @@ A collaborative emergency-response concept exploring how ordinary citizen smartp
 
 **File Conversion & Manipulation SaaS**
 
-<img src="https://img.shields.io/badge/SAAS-PRIVACY%20FOCUSED-2563EB?style=flat-square"/>
+A browser-based file utility platform designed for conversion, compression, and batch processing.
 
-A browser-native utility platform for privacy-focused file conversion, compression, batch transformation, and format manipulation without storing files on remote servers.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Multi-format conversion across documents, images, audio, and video.
-- Client-side WebAssembly execution.
-- Drag-and-drop file processing.
-- Real-time conversion progress.
-- Batch transformation and archive downloads.
+- Multi-format conversion.
+- Browser-native processing.
+- WebAssembly integration.
+- Batch transformations.
+- Drag-and-drop interface.
 
 **Technology:** Next.js · WebAssembly · TypeScript · Tailwind CSS
 
-**Live:** [uniconv-psi.vercel.app](https://uniconv-psi.vercel.app)
+**Live:** [UniConv](https://uniconv-psi.vercel.app)
 
 ---
 
 ### 08. NEET Rank Analyzer
 
-**Data-Driven Examination Prediction Platform**
+**Data-Driven Examination Prediction**
 
-<img src="https://img.shields.io/badge/DATA-ANALYTICS-2563EB?style=flat-square"/>
+A data analytics platform for estimating competitive examination ranks and medical college admission possibilities.
 
-An analytical platform predicting competitive examination rank percentiles and medical college cutoff probabilities using historical multi-year admission datasets.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Historical seat allocation and score-trend analysis.
-- Predictive ranking algorithms.
+- Historical cutoff analysis.
+- Predictive ranking.
 - State and All-India quota estimation.
-- Government and private medical college cutoff matching.
-- Category-wise eligibility distribution.
+- Category-wise eligibility.
+- College matching.
 
-**Technology:** Python · Data Analytics · React · Tailwind CSS · Statistical Models
+**Technology:** Python · Data Analytics · React · Statistical Models
 
-**Repository:** [Neet-rank-analyzer](https://github.com/visheshdevanur/Neet-rank-analyzer)
+**Repository:** [NEET Rank Analyzer](https://github.com/visheshdevanur/Neet-rank-analyzer)
 
 ---
 
@@ -302,297 +274,200 @@ An analytical platform predicting competitive examination rank percentiles and m
 
 **Academic Event Lifecycle Management**
 
-<img src="https://img.shields.io/badge/AI-AUTOMATION-7C3AED?style=flat-square"/>
+A workflow-based event management system coordinating proposals, approvals, registrations, and performance feedback.
 
-A state-machine-driven event management engine coordinating proposals, approvals, registrations, media collection, and AI-assisted performance feedback for academic institutions.
+**Key Engineering Areas**
 
-**Engineering Highlights**
+- Event state-machine workflows.
+- Role-based portals.
+- JWT authentication.
+- Secure registration forms.
+- AI-assisted evaluation reports.
 
-- Event lifecycle: Draft → Pending Approval → Approved → Completed.
-- Separate authenticated portals for Principal, HOD and Coordinators.
-- JWT and bcrypt-based authentication.
-- Cryptographically secured private registration and feedback forms.
-- Google Gemini API integration for automated evaluation reports.
+**Technology:** Vite · TypeScript · Express · Supabase · Gemini API
 
-**Technology:** Vite · TypeScript · Express · Supabase · Google Gemini API · JWT
-
-**Live:** [eventflow-indol.vercel.app](https://eventflow-indol.vercel.app)
+**Live:** [Event Flow](https://eventflow-indol.vercel.app)
 
 ---
 
 ### 10. CartFill
 
-**Real-Time Inventory & Shopping Tracker**
+**Inventory & Shopping Tracker**
 
-<img src="https://img.shields.io/badge/WEB-APPLICATION-2563EB?style=flat-square"/>
+A responsive application for organizing shopping requirements and tracking inventory.
 
-A responsive application for streamlined inventory and shopping requirement tracking with cloud-synchronized persistent data management.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Organized list creation and categorization.
+- Categorized lists.
 - Item status tracking.
-- Supabase persistent storage.
+- Persistent cloud storage.
 - Optimistic UI updates.
-- Mobile-first responsive interface.
-- Instant search and filtering.
+- Search and filtering.
 
-**Technology:** React · Vite · Supabase · Tailwind CSS · JavaScript
+**Technology:** React · Vite · Supabase · Tailwind CSS
 
-**Live:** [cart-fill.vercel.app](https://cart-fill.vercel.app)
+**Live:** [CartFill](https://cart-fill.vercel.app)
 
 ---
 
 ### 11. ReliefChain
 
-**Transparent Aid-Flow & Relief Pipeline**
+**Transparent Aid-Flow Platform**
 
-<img src="https://img.shields.io/badge/IMPACT-TRANSPARENT%20AID-2563EB?style=flat-square"/>
+A humanitarian aid tracking concept designed to establish transparency across donation, verification, allocation, and delivery workflows.
 
-A disaster-relief transparency platform designed to establish an auditable end-to-end pipeline from donor contribution to real-world recipient delivery.
+**Key Engineering Areas**
 
-**Engineering Highlights**
-
-- Transparent aid lifecycle: Donation → Verification → Allocation → Delivery → Impact.
-- Structured allocation workflows for humanitarian organizations.
-- Donor-facing verification dashboard.
-- Real-time fund tracking and receipts.
-- Audit-ready financial reporting.
+- Donation tracking.
+- Allocation workflows.
+- Delivery verification.
+- Donor dashboards.
+- Financial reporting.
 
 **Technology:** React · TypeScript · Node.js · PostgreSQL · Tailwind CSS
 
-**Live:** [reliefchain-pied.vercel.app](https://reliefchain-pied.vercel.app)
+**Live:** [ReliefChain](https://reliefchain-pied.vercel.app)
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 04 / TECHNOLOGY STACK
+# <img src="https://img.icons8.com/fluency/48/developer.png" width="30" height="30" align="center"/> TECHNOLOGY STACK
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Engineering;Backend+%26+Database+Architecture;AI+%26+Edge+Computing;Architecture+%26+Creative+Technology"/>
+<div align="center">
 
-### Programming Languages & Frontend
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Engineering;Backend+Architecture;Database+Engineering;AI+%26+Edge+Computing;DevOps+%26+Deployment"/>
+
+</div>
+
+### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,c,cpp,react,nextjs,tailwind,vite,html,css&perline=6"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,c,cpp&perline=5"/>
 </p>
 
-### Backend, Databases & Security
+### Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,supabase,mongodb,prisma&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6"/>
 </p>
 
-- RESTful APIs
-- PostgreSQL Database Architecture
-- Supabase
-- Prisma ORM
-- TypeORM
-- JWT Authentication
-- Role-Based Access Control
-- Multi-Tenant Architecture
-
-### AI, Edge Computing & Emerging Technologies
+### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,linux,raspberrypi&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,supabase,mongodb,prisma&perline=7"/>
 </p>
 
-- Local Large Language Models
-- Edge AI
-- Small Language Models
-- Whisper Speech-to-Text
-- Text-to-Speech
-- Ollama
-- llama.cpp
-- GGUF Quantization
-- Google Gemini API
-- Raspberry Pi
-
-### Engineering Tools & Creative Disciplines
+### AI & Edge Computing
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,docker,postman&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,linux,raspberrypi&perline=4"/>
 </p>
 
-- ERP Architecture
-- Multi-Tenant Systems
-- State-Machine Workflows
-- Dashboard UX
-- Git / GitHub CI/CD
-- Video Editing
-- Motion Graphics
-- Technical Content Production
+- Local Large Language Models.
+- Small Language Models.
+- GGUF Quantization.
+- Whisper Speech Recognition.
+- Text-to-Speech.
+- Ollama and llama.cpp.
+- Edge AI deployment.
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,docker,postman&perline=7"/>
+</p>
+
+### Engineering Specializations
+
+- Enterprise Resource Planning.
+- Multi-Tenant SaaS Architecture.
+- REST API Design.
+- Role-Based Access Control.
+- Database Design.
+- System Integration.
+- CI/CD and Deployment.
+- Video Editing and Motion Graphics.
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 05 / EDUCATION
+# <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="30" height="30" align="center"/> EDUCATION
 
-<table>
-<tr>
-<th>Qualification</th>
-<th>Institution</th>
-<th>Duration</th>
-<th>Performance</th>
-</tr>
-<tr>
-<td><strong>B.E. — Computer Science & Engineering</strong></td>
-<td>Maharaja Institute of Technology, Mysore</td>
-<td>2022 – Present</td>
-<td><strong>9.55 CGPA</strong></td>
-</tr>
-<tr>
-<td>PUC — Science</td>
-<td>Gopalswamy PU College, Mysuru</td>
-<td>2020 – 2022</td>
-<td>87.3%</td>
-</tr>
-<tr>
-<td>SSLC</td>
-<td>Excel Public School, Mysuru</td>
-<td>2020</td>
-<td>86.6%</td>
-</tr>
-</table>
+| Qualification | Institution | Performance |
+|---|---|---|
+| B.E. Computer Science & Engineering | Maharaja Institute of Technology, Mysore | **9.55 CGPA** |
+| PUC – Science | Gopalswamy PU College, Mysuru | 87.3% |
+| SSLC | Excel Public School, Mysuru | 86.6% |
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Learning+Continuously.;Engineering+With+Purpose."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=550&lines=Continuous+Learning;Research+Driven+Engineering;Building+For+The+Future"/>
 </div>
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 06 / HONORS, AWARDS & CHAMPIONSHIPS
+# <img src="https://img.icons8.com/fluency/48/trophy.png" width="30" height="30" align="center"/> HONORS & ACHIEVEMENTS
 
-### Academic & Competitive Achievements
+| Achievement | Recognition |
+|---|---|
+| SOF International Mathematics Olympiad | Gold Medal · International Rank 1712 |
+| National-Level LiveOlympiad | Gold Medalist · Mathematics & Science |
+| Escape X – MITM Campus Hackathon | **1st Place · 2025** |
+| TECHNOVA 2.0 – Web Wizards | **1st Place** |
+| VTU Cricket Tournament – Mysuru District | **Champions · 2026** |
+| VTU State-Level Cricket Tournament | 4th in State · 2026 |
+| Mysuru Zone Under-16 Cricket | Champions · 2021 |
+| Malnad Cup Under-14 Tournament | Best Bowler · Fast Bowler |
 
-<table>
-<tr>
-<td width="50%" align="center">
+### Institutional Contribution
 
-<h2>🥇</h2>
+Developed institutional software adopted by the college and received an **Appreciation Letter** for the contribution.
 
-**SOF International Mathematics Olympiad**
+### Research & Innovation
 
-Gold Medal
-
-International Rank 1712
-
-</td>
-<td width="50%" align="center">
-
-<h2>🥇</h2>
-
-**National-Level LiveOlympiad**
-
-Gold Medalist
-
-Math & Science Competition
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<h2>🏆</h2>
-
-**Escape X — MITM Campus Hackathon**
-
-1st Place
-
-Problem Solving · 2025
-
-</td>
-<td width="50%" align="center">
-
-<h2>🏆</h2>
-
-**VTU Cricket Tournament — Mysuru District**
-
-Champions · 2026
-
-MITM College Cricket Team
-
-</td>
-</tr>
-</table>
-
-### Cricket & Athletic Championships
-
-<table>
-<tr>
-<td width="50%">
-
-**VTU State-Level Cricket Tournament**
-
-4th in State · 2026
-
-</td>
-<td width="50%">
-
-**Mysuru Zone Under-16 Cricket**
-
-U-16 Champions · 2021
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**Malnad Cup Under-14 Tournament**
-
-Best Bowler Award — Fast Bowler
-
-</td>
-</tr>
-</table>
+Participated in the **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**, working on satellite-imagery-driven road-network resilience.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Discipline+Beyond+The+Code;Competing.+Learning.+Improving."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=600&lines=Engineering+With+Purpose;Competing+With+Discipline;Learning+Through+Innovation"/>
 </div>
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 07 / CREATIVE PRODUCTION & CONTENT ENGINEERING
+# <img src="https://img.icons8.com/fluency/48/video.png" width="30" height="30" align="center"/> CREATIVE PRODUCTION
 
-<img align="right" width="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+Beyond software engineering, I explore visual communication and digital content production.
 
-I combine technical engineering with visual storytelling, creative production, and digital media.
+**Creative Interests**
 
-As the creator of **@visheshcoditz**, I explore programming algorithms, software architecture, and real-world system implementations through technical content.
-
-**Creative disciplines**
-
-- Technical video editing and production.
-- Motion graphics and visual storytelling.
+- Technical video editing.
+- Motion graphics.
+- Visual storytelling.
 - Software demonstrations.
-- Technical explainers and content creation.
-- Digital experiences and UI/UX design.
-
-<br clear="right"/>
+- Technical content creation.
+- UI/UX and digital experiences.
 
 <div align="center">
 
 <a href="https://www.youtube.com/@visheshcoditz">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 08 / GITHUB ANALYTICS
+# <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30" height="30" align="center"/> GITHUB ANALYTICS
 
 <div align="center">
 
-### My Development Activity
+### DEVELOPMENT STATISTICS
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=visheshdevanur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
@@ -600,59 +475,64 @@ As the creator of **@visheshcoditz**, I explore programming algorithms, software
 
 <br/><br/>
 
-### Contribution Streak
+### CONTRIBUTION STREAK
 
 <img width="80%" src="https://streak-stats.demolab.com?user=visheshdevanur&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-### Contribution Activity
+### CONTRIBUTION ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=visheshdevanur&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 <br/><br/>
 
-### Contribution Snake
+### CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 09 / BEYOND ENGINEERING
+# <img src="https://img.icons8.com/fluency/48/rocket.png" width="30" height="30" align="center"/> BEYOND ENGINEERING
 
-I believe impactful technology requires more than technical expertise. It requires creative thinking, business understanding, leadership, and continuous experimentation.
+I believe meaningful engineering requires more than writing code. It requires creativity, leadership, business understanding, research, and the willingness to continuously experiment.
 
-| Discipline | Interest |
+| Area | Focus |
 |---|---|
 | Entrepreneurship | Product strategy and business operations |
-| Creative Technology | Video editing and motion graphics |
-| Research | Emerging technology and experimentation |
 | Leadership | Team collaboration and engineering delivery |
+| Research | Emerging technology and experimentation |
+| Creative Technology | Video editing and motion graphics |
 | Athletics | Competitive cricket and discipline |
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Think+Creatively.;Build+Relentlessly.;Improve+Continuously."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=600&lines=Think+Creatively.;Build+Relentlessly.;Improve+Continuously."/>
 </div>
 
 <div align="center">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
+<img width="95%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:60A5FA,100:2563EB&animation=twinkling"/>
 </div>
 
-# 10 / LET'S CONNECT
+# <img src="https://img.icons8.com/fluency/48/handshake.png" width="30" height="30" align="center"/> LET'S CONNECT
 
 I'm interested in connecting with engineers, founders, researchers, entrepreneurs, and technology enthusiasts who enjoy building meaningful products.
 
-Whether it's enterprise software, AI, Edge Computing, cybersecurity, or a new engineering challenge, I'm open to meaningful conversations and collaborations.
+Open to conversations around:
+
+- Enterprise Software & ERP.
+- Artificial Intelligence & Edge Computing.
+- Full-Stack Engineering.
+- Cybersecurity.
+- Product Development.
+- Technology Leadership.
+- Engineering Collaborations.
 
 <div align="center">
 
-<a href="mailto:visheshdevanur@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://visheshgdevanur.vercel.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -671,15 +551,9 @@ Whether it's enterprise software, AI, Edge Computing, cybersecurity, or a new en
 
 <br/><br/>
 
-**Email:** visheshdevanur@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=ENGINEERING+SYSTEMS.;BUILDING+INTELLIGENCE.;CREATING+IMPACT."/>
 
-**Location:** Mysuru, Karnataka, India · UTC+5:30
-
-<br/>
-
-### ENGINEERING SYSTEMS.
-### BUILDING INTELLIGENCE.
-### CREATING IMPACT.
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:123B70,100:080D19&height=150&section=footer&animation=twinkling"/>
 
