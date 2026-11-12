@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/hero-banner.svg" alt="Vishesh G Devanur - Digital Identity" width="100%"/>
+<img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/hero-banner.svg?v=2" alt="Vishesh G Devanur - Digital Identity" width="100%"/>
 
 <br/><br/>
 
@@ -25,14 +25,14 @@
 <br/>
 
 <!-- METRICS STRIP -->
-<img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/metrics-strip.svg" alt="Vishesh G Devanur Key Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/metrics-strip.svg?v=2" alt="Vishesh G Devanur Key Metrics" width="100%"/>
 
 </div>
 
 <br/>
 
 <!-- ================= 01 // PROFESSIONAL OVERVIEW ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-about.svg" alt="01 Professional Overview" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-about.svg?v=2" alt="01 Professional Overview" width="100%"/></p>
 
 I'm **Vishesh G Devanur**, a Computer Science & Engineering undergraduate at **Maharaja Institute of Technology, Mysore** maintaining a **9.55 CGPA**, concurrently serving as **Chief Operating Officer (COO)** at **Vovalyx**.
 
@@ -65,7 +65,7 @@ I architect and ship robust systems across **multi-tenant enterprise SaaS**, **i
 <br/>
 
 <!-- ================= 02 // LEADERSHIP & EXPERIENCE ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-experience.svg" alt="02 Leadership & Operations" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-experience.svg?v=2" alt="02 Leadership & Operations" width="100%"/></p>
 
 ### Chief Operating Officer (COO) &mdash; **Vovalyx**
 **Executive Leadership &bull; Operations & Governance &bull; PRESENT**
@@ -107,7 +107,7 @@ I architect and ship robust systems across **multi-tenant enterprise SaaS**, **i
 <br/>
 
 <!-- ================= 03 // SELECTED WORK & SYSTEMS ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-projects.svg" alt="03 Selected Work & Systems" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-projects.svg?v=2" alt="03 Selected Work & Systems" width="100%"/></p>
 
 Here is a curated showcase of **11 production systems, SaaS utilities, and AI architectures** designed and built from the ground up:
 
@@ -262,7 +262,7 @@ Here is a curated showcase of **11 production systems, SaaS utilities, and AI ar
 <br/>
 
 <!-- ================= 04 // TECHNICAL ARSENAL ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-skills.svg" alt="04 Technical Arsenal" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-skills.svg?v=2" alt="04 Technical Arsenal" width="100%"/></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,c,cpp,react,nextjs,nodejs,express,nestjs,postgres,supabase,prisma,tailwind,vite,html,css,git,github,vscode,vercel,docker,linux,raspberrypi&perline=12" alt="Vishesh Skill Icons"/>
@@ -312,7 +312,7 @@ Here is a curated showcase of **11 production systems, SaaS utilities, and AI ar
 <br/>
 
 <!-- ================= 05 // ACADEMIC FOUNDATION ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-education.svg" alt="05 Academic Foundation" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-education.svg?v=2" alt="05 Academic Foundation" width="100%"/></p>
 
 | Qualification | Institution | Duration | Score / Honors |
 |---|---|---|---|
@@ -323,7 +323,7 @@ Here is a curated showcase of **11 production systems, SaaS utilities, and AI ar
 <br/>
 
 <!-- ================= 06 // HONORS & ATHLETICS ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-honors.svg" alt="06 Honors & Athletics" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-honors.svg?v=2" alt="06 Honors & Athletics" width="100%"/></p>
 
 <table>
 <tr>
@@ -354,7 +354,7 @@ Here is a curated showcase of **11 production systems, SaaS utilities, and AI ar
 <br/>
 
 <!-- ================= 07 // GITHUB TELEMETRY ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-analytics.svg" alt="07 GitHub Telemetry" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-analytics.svg?v=2" alt="07 GitHub Telemetry" width="100%"/></p>
 
 <div align="center">
 
@@ -390,7 +390,7 @@ Here is a curated showcase of **11 production systems, SaaS utilities, and AI ar
 <br/>
 
 <!-- ================= 08 // INITIATE CONTACT ================= -->
-<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-connect.svg" alt="08 Initiate Contact" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/visheshdevanur/visheshdevanur/main/assets/section-connect.svg?v=2" alt="08 Initiate Contact" width="100%"/></p>
 
 I'm always interested in connecting with engineers, founders, researchers, and technology leaders building meaningful products.
 
