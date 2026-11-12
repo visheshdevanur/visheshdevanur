@@ -48,10 +48,10 @@
       }
 
       /* Multi-line typewriter effect using opacity keyframes */
-      .type-line-1 { animation: cycleText1 16s infinite; }
-      .type-line-2 { animation: cycleText2 16s infinite; }
-      .type-line-3 { animation: cycleText3 16s infinite; }
-      .type-line-4 { animation: cycleText4 16s infinite; }
+      .type-line-1 { opacity: 1; animation: cycleText1 16s infinite; }
+      .type-line-2 { opacity: 0; animation: cycleText2 16s infinite; }
+      .type-line-3 { opacity: 0; animation: cycleText3 16s infinite; }
+      .type-line-4 { opacity: 0; animation: cycleText4 16s infinite; }
 
       @keyframes cycleText1 {
         0%, 20% { opacity: 1; transform: translateY(0); }
