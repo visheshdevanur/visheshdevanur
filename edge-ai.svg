@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="t d">
+<title id="t">Edge AI — intelligence at the edge</title><desc id="d">A technical illustration of a compact edge-computing board connected to local models, audio and offline applications.</desc>
+<defs>
+ <linearGradient id="b" x2="1" y2="1"><stop stop-color="#080c15"/><stop offset="1" stop-color="#111d31"/></linearGradient>
+ <linearGradient id="c" x2="1" y2="1"><stop stop-color="#d9e8f8"/><stop offset=".45" stop-color="#657c9b"/><stop offset="1" stop-color="#263b5a"/></linearGradient>
+ <linearGradient id="a"><stop stop-color="#31d9ff"/><stop offset="1" stop-color="#7568ff"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="650" rx="28" fill="url(#b)"/>
+<g stroke="#29466e" opacity=".35"><path d="M0 100H1200M0 200H1200M0 300H1200M0 400H1200M0 500H1200M100 0V650M200 0V650M300 0V650M400 0V650M500 0V650M600 0V650M700 0V650M800 0V650M900 0V650M1000 0V650M1100 0V650"/></g>
+<circle cx="600" cy="325" r="210" fill="#147dff" opacity=".12" filter="url(#g)"/>
+<g stroke="url(#a)" stroke-width="3" fill="none" opacity=".9">
+ <path d="M600 325L260 150H110M600 325L940 150H1090M600 325L260 500H110M600 325L940 500H1090"/>
+ <path d="M600 325V95M600 325V565"/>
+</g>
+<g fill="#07101e" stroke="#4ca9ff" stroke-width="2">
+ <rect x="75" y="95" width="245" height="112" rx="14"/><rect x="880" y="95" width="245" height="112" rx="14"/>
+ <rect x="75" y="445" width="245" height="112" rx="14"/><rect x="880" y="445" width="245" height="112" rx="14"/>
+ <rect x="495" y="52" width="210" height="86" rx="12"/><rect x="495" y="512" width="210" height="86" rx="12"/>
+</g>
+<g fill="#e7f2ff" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="197" y="140" font-size="21" font-weight="700">LOCAL MODELS</text><text x="197" y="171" font-size="15" fill="#8ea9ce">SLM / GGUF</text>
+ <text x="1002" y="140" font-size="21" font-weight="700">AUDIO I/O</text><text x="1002" y="171" font-size="15" fill="#8ea9ce">Whisper / TTS</text>
+ <text x="197" y="490" font-size="21" font-weight="700">OFFLINE-FIRST</text><text x="197" y="521" font-size="15" fill="#8ea9ce">Private by design</text>
+ <text x="1002" y="490" font-size="21" font-weight="700">EDGE DEVICES</text><text x="1002" y="521" font-size="15" fill="#8ea9ce">Raspberry Pi</text>
+ <text x="600" y="105" font-size="17" font-weight="700">INFERENCE</text><text x="600" y="557" font-size="17" font-weight="700">DEPLOYMENT</text>
+</g>
+<g transform="translate(450 175)">
+ <rect width="300" height="300" rx="28" fill="#0c1728" stroke="#a7c7e8" stroke-width="3"/>
+ <rect x="32" y="32" width="236" height="236" rx="18" fill="url(#c)" stroke="#dcecff" stroke-opacity=".55"/>
+ <rect x="77" y="77" width="146" height="146" rx="12" fill="#101d31" stroke="#48d9ff" stroke-width="2"/>
+ <g fill="#b8d1ec"><rect x="15" y="60" width="17" height="12"/><rect x="15" y="92" width="17" height="12"/><rect x="15" y="124" width="17" height="12"/><rect x="15" y="156" width="17" height="12"/><rect x="268" y="60" width="17" height="12"/><rect x="268" y="92" width="17" height="12"/><rect x="268" y="124" width="17" height="12"/><rect x="268" y="156" width="17" height="12"/></g>
+ <text x="150" y="139" fill="#eaf7ff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">EDGE</text>
+ <text x="150" y="164" fill="#51dfff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17">COMPUTE</text>
+</g>
+<g fill="#4ee2ff"><circle cx="600" cy="325" r="6"/><circle cx="260" cy="150" r="5"/><circle cx="940" cy="150" r="5"/><circle cx="260" cy="500" r="5"/><circle cx="940" cy="500" r="5"/></g>
+</svg>
